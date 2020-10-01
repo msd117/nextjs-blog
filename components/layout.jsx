@@ -3,7 +3,7 @@ import utilStyles from "../styles/utils.module.css";
 import Head from "next/head";
 import Link from "next/link";
 
-const name = "Mohd Sohel Deshmukh";
+const name = "Mohd Sohel Mohd Iqbal Deshmukh";
 export const siteTitle = "Next.js Sample Website";
 
 export default function Layout({ children, home }) {
